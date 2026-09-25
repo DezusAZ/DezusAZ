@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d_z_az
+- 👋 Hi, I’m @d_z_az (instagram.com/dz_az02)
 - 👀 I’m interested in hacking the planet.
 - 🌱 I’m currently learning more about microcontorllers & SBC (Pi's)
 - 💞️ I’m looking to collaborate on basically anything.
